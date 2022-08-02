@@ -1,0 +1,21 @@
+body {
+  background-color: gray;
+}
+
+.div1 {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 5%;
+  border-radius: 15px;
+}
+
+.div2 {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 5%;
+  border: 5px solid red;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}

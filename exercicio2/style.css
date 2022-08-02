@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  background-color: grey;
+  height: 100vh;
+}
+div {
+  float: left;
+  padding: 100px;
+}
+.div1 {
+  background-color: black;
+  position: absolute;
+}
+.div2 {
+  background-color: black;
+  position: relative;
+  float: right;
+}
+.div3 {
+  background-color: black;
+  position: absolute;
+  bottom: 0%;
+}
+.div4 {
+  background-color: black;
+  position: absolute;
+  bottom: 0%;
+  right: 0%;
+}
